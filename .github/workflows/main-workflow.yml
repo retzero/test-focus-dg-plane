@@ -5,6 +5,7 @@ on:
     branches:
       - main
 
+
 jobs:
   lint:
     name: Lint Checks
